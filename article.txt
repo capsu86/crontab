@@ -1,0 +1,7 @@
+https://towardsdatascience.com/how-to-schedule-python-scripts-with-cron-the-only-guide-youll-ever-need-deea2df63b4e
+
+https://crontab.guru/#*_*_*_*_*
+
+https://stackoverflow.com/questions/22743548/cronjob-not-running
+
+https://askubuntu.com/questions/222512/cron-info-no-mta-installed-discarding-output-error-in-the-syslog
